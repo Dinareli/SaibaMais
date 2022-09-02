@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  font-family: Helvetica;
+  color: #323232;
+}
+
+.principal {
+    background-color: #4ecdc4;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 20px 30px;
+    margin-top: 10vh;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+#text-part1 {
+  color: white;
+  margin-top: 20px;
+  font-size: 23px;
+  text-align: left;
+  margin-bottom: -10px;
+}
+
+#text-part2 {
+  color: black;
+  font-size: 25px;
+  text-align: left;
+  line-height: 200%;
+}
+
+button {
+  background: #000;
+  color: #FFF;
+  font-size: 1.2vw;
+  height: 4.0vw;
+  width: 50%;
+  border-radius: 0vw;
+  margin-left: -50%;
+  border-radius: 0px;
+}
+
